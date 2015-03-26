@@ -94,7 +94,7 @@
     <Content Include="js\jquery.carouFredSel-5.5.0-packed.js" />
     <Content Include="js\jquery.touchwipe.1.1.1.js" />
     <Content Include="js\modernizr.custom.js" />
-    <Content Include="start.html" />
+    <Content Include="template.html" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\fonts\ptc75f-webfont.eot" />
