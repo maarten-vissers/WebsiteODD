@@ -44,6 +44,64 @@
   <ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\fonts\ptc75f-webfont.svg" />
+    <Content Include="css\images\arr.png" />
+    <Content Include="css\images\col-img1.png" />
+    <Content Include="css\images\col-img2.png" />
+    <Content Include="css\images\col-img3.png" />
+    <Content Include="css\images\direction-nav.png" />
+    <Content Include="css\images\favicon.ico" />
+    <Content Include="css\images\footer-cols.png" />
+    <Content Include="css\images\footer-shell.png" />
+    <Content Include="css\images\footer.png" />
+    <Content Include="css\images\front-img.png" />
+    <Content Include="css\images\green-arr.png" />
+    <Content Include="css\images\green-btn%402x.png" />
+    <Content Include="css\images\green-btn.png" />
+    <Content Include="css\images\header-shell.png" />
+    <Content Include="css\images\header.png" />
+    <Content Include="css\images\img-back.png" />
+    <Content Include="css\images\img-mid.png" />
+    <Content Include="css\images\logo%402x.png" />
+    <Content Include="css\images\logo.png" />
+    <Content Include="css\images\m-header-shell.png" />
+    <Content Include="css\images\m-navigation.png" />
+    <Content Include="css\images\m-section.png" />
+    <Content Include="css\images\main.png" />
+    <Content Include="css\images\nav-arr%402x.png" />
+    <Content Include="css\images\nav-arr.png" />
+    <Content Include="css\images\nav-btn.png" />
+    <Content Include="css\images\navigation%402x.png" />
+    <Content Include="css\images\pagination%402x.png" />
+    <Content Include="css\images\pagination.png" />
+    <Content Include="css\images\partners1.png" />
+    <Content Include="css\images\partners2.png" />
+    <Content Include="css\images\partners3.png" />
+    <Content Include="css\images\partners4.png" />
+    <Content Include="css\images\post-img.png" />
+    <Content Include="css\images\section%402x.png" />
+    <Content Include="css\images\section.png" />
+    <Content Include="css\images\slider-b-arr.png" />
+    <Content Include="css\images\slider-h3-border.png" />
+    <Content Include="css\images\socials-pattern.png" />
+    <Content Include="css\images\socials.png" />
+    <Content Include="css\images\t-header-shell.png" />
+    <Content Include="css\images\t-section.png" />
+    <Content Include="css\style.css" />
+    <Content Include="js\functions.js" />
+    <Content Include="js\jquery-1.8.0.min.js" />
+    <Content Include="js\jquery.carouFredSel-5.5.0-packed.js" />
+    <Content Include="js\jquery.touchwipe.1.1.1.js" />
+    <Content Include="js\modernizr.custom.js" />
+    <Content Include="start.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\fonts\ptc75f-webfont.eot" />
+    <Content Include="css\fonts\ptc75f-webfont.ttf" />
+    <Content Include="css\fonts\ptc75f-webfont.woff" />
+    <Content Include="css\images\Thumbs.db" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
